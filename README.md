@@ -1,1 +1,1 @@
-# 2023-12-Python-CNNs-Nh-n-D-ng-H-nh-nh-V-n-Tay
+# 2023-12-Python-CNNs-Nhận Dạng Hình Ảnh Vân tay , (Fingerprint image recognition)
