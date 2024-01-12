@@ -1,8 +1,10 @@
 # 2023-12-Python-CNNs (DỰ ÁN NÀY MÌNH THẢM KHẢO CỦA https://github.com/simplegitr/Fingerprints-Recognition)
 - Nhận Dạng Hình Ảnh Vân tay, (Fingerprint image recognition)
 # Cài đặt chương trình
+- các bạn cứ sắp xếp file như thế này là chạy được đó
 ![image](https://github.com/hiepnx03/2023-12-Python-CNNs-Fingerprint-image-recognition/assets/71397941/2ff12a84-dd30-4be3-a0fe-fddc6a64a22b)
-các bạn cứ sắp xếp file như thế này là chạy được đó
+- kho dữ liệu ảnh vân tay
+https://www.kaggle.com/datasets/ruizgara/socofing/
 # HÌNH ẢNH
 - dữ liệu toàn bộ ảnh
 - ![image](https://github.com/hiepnx03/2023-12-Python-CNNs-Fingerprint-image-recognition/assets/71397941/7725b205-f081-4516-8fd8-0d890a8b8f19)
