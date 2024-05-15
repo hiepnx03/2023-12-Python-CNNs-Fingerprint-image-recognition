@@ -18,3 +18,14 @@ https://www.kaggle.com/datasets/ruizgara/socofing/
 # Đánh dấu cột mốc
 - Năm 3 kì 1
 - môn Trí tuệ nhân tạo 18/12/2023
+
+
+# CNN UPDATE 24-05-16
+- thư mục
+![image](https://github.com/hiepnx03/2023-12-Python-CNNs-Fingerprint-image-recognition/assets/71397941/1e2f3d3d-8304-4ec8-8c88-0a0e890552bd)
+- tính năng chọn ảnh 
+- và hiển thị kết quả có % kết quả trùng khớp
+![image](https://github.com/hiepnx03/2023-12-Python-CNNs-Fingerprint-image-recognition/assets/71397941/b278bd2b-b228-44c1-9408-8173688f0fc9)
+
+![image](https://github.com/hiepnx03/2023-12-Python-CNNs-Fingerprint-image-recognition/assets/71397941/a5181088-9e69-47fd-a626-5aea59b08414)
+
